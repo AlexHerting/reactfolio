@@ -104,7 +104,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="https://cdn.discordapp.com/attachments/919460130897154109/1146626001317671023/skeptical_cat.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
