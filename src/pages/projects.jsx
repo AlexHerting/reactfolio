@@ -49,7 +49,7 @@ const Projects = () => {
 							been for course work, while others I made on my own. I have thouroughly
 							enjoyed creating each and every one of these projects regardless
 							of the time and amount of debugging they took. They range anywhere from
-							a Pokemon rogue type game to an online store. Each of them offering 
+							a Pokémon rogue type game to an online store. Each of them offering 
 							something new to learn and take forward with me to use in future projects.
 						</div>
 

@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portfolio by Alex Herting",
 		name: "Alex Herting",
 		email: "alex.herting@gmail.com",
-		logo: "https://bloggytalky.com/wp-content/uploads/2017/07/create-a-free-logo-design-logo-designs-design-a-free-logo-design-a-free-logo-alltech-just-free-logo-design-1068x974.png",
+		logo: "https://th.bing.com/th/id/R.a91bc30a1bfb1c3e19cc142ba29b0ebb?rik=GpZ8MHnGWUegwA&pid=ImgRaw&r=0",
 	},
 
 	socials: {
@@ -62,12 +62,12 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "Pokémon Rogue Type Game",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"This is a rogue type game that was developed in C for 6 weeks and then ported to C++ where it was finished. The game mimics the popular game Pokémon, the official Pokémon database is used to create the Pokémon in this game. The user picks a starting pokemon and takes on different NPC's along the way. Each NPC with its own movement mechanics and rules as well as randomized Pokémon in their inventory. The player can also catch wild pokemon in certain terrains while they adventure around the 400 x 400 map. Each section is 1 of the thousands of sections that are each randomly generated and stored in memory as they are created. The game is made to be user friendly and easy to follow along. This is by far the most complex project I have completed and I learned a tremendous amount of new programming techniques along the way.",
+			logo: "https://th.bing.com/th/id/OIF.UgcSPLKsOW5gdzu8y9ZBkQ?pid=ImgDet&rs=1",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://youtu.be/Q6DpGkhX7u0",
 		},
 
 		{

@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="https://th.bing.com/th/id/R.a93dc4a7e8075ba28dd85355bf656fc6?rik=YPeO%2bbsZOp3JHg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2f8%2f7%2f156668.jpg&ehk=FTuoVbldq70yITOQOcSuJM%2fGzs%2bBaw4EJDVi9sYG6%2fw%3d&risl=&pid=ImgRaw&r=0"
+											src="https://media.discordapp.net/attachments/919460130897154109/1146918949414518784/canvas_pfp.jpg?width=682&height=910"
 											alt="about"
 											className="about-image"
 										/>
