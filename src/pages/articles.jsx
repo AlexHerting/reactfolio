@@ -21,7 +21,7 @@ const Articles = () => {
 
 	return (
 		<React.Fragment>
-			<Helmet>
+			{/* <Helmet>
 				<title>{`Articles | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
@@ -71,7 +71,7 @@ const Articles = () => {
 						<Footer />
 					</div>
 				</div>
-			</div>
+			</div> */}
 		</React.Fragment>
 	);
 };
